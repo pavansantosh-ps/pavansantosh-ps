@@ -12,6 +12,14 @@
 
 - 📫 How to reach me **pavansantosh.ips@gmail.com**
 
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Java | Javascript | Python | Matlab | R (Statistics)
+- 🌐 &nbsp; HTML | CSS | Bootstrap | Angular | Flask | GO | Node.js
+- 🎮 &nbsp; Godot
+- 🛢 &nbsp; MySQL | MongoDB | Firebase | AWS
+- 🔧 &nbsp; Git | Android Studio | VsCode
+
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pavansantosh-ps&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavansantosh-ps&theme=buefy&layout=compact" />
