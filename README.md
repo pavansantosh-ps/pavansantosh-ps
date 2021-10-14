@@ -1,5 +1,5 @@
 <h1 align="center"> Hello, I'm Pavan Santosh 👋 </h1>
-<h3 align="center">I'm a CSE Undergrad from VIT-AP University</h3>
+<h3 align="center">I'm a CSE Undergrad from VIT-AP University Who is intrested in Web development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavansantosh-ps&label=Profile%20views&color=0e75b6&style=flat" alt="pavansantosh-ps" /> </p>
 
@@ -14,11 +14,13 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Java | Javascript | Python | Matlab | R (Statistics)
+- 💻 &nbsp; Java | Javascript | Typescript | Python | Matlab | R (Statistics)
 - 🌐 &nbsp; HTML | CSS | Bootstrap | Angular | Flask | GO | Node.js
 - 🎮 &nbsp; Godot
 - 🛢 &nbsp; MySQL | MongoDB | Firebase | AWS
 - 🔧 &nbsp; Git | Android Studio | VsCode
+
+<br>
 
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pavansantosh-ps&theme=buefy&show_icons=true" />
