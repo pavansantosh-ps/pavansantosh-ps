@@ -15,7 +15,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Java | Javascript | Typescript | Python | Matlab | R (Statistics)
-- 🌐 &nbsp; HTML | CSS | Bootstrap | Angular | Flask | GO | Node.js
+- 🌐 &nbsp; HTML | CSS | Bootstrap | Angular | React.js | Next.js | Flask | GO | Node.js
 - 🎮 &nbsp; Godot
 - 🛢 &nbsp; MySQL | MongoDB | Firebase | AWS
 - 🔧 &nbsp; Git | Android Studio | VsCode
