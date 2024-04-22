@@ -1,24 +1,21 @@
 <h1 align="center"> Hello, I'm Pavan Santosh 👋 </h1>
-<h3 align="center">I'm a CSE Undergrad from VIT-AP University Who is intrested in Web development</h3>
+<h3 align="center">Software Engineer at Affinsys AI | Full Stack Developer | Analytics Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavansantosh-ps&label=Profile%20views&color=0e75b6&style=flat" alt="pavansantosh-ps" /> </p>
 
 ### 🤔 About
-- 🌱 I’m currently learning **Angular, React.js**
-
-- 🤝 I’m looking forward to work as a **Web development projects**
-
-- 😄 Passionate about accessibility and committed to a web that works for everyone
-
-- 📫 How to reach me **pavansantosh.ips@gmail.com**
+- 🌱 I’m currently working on honing my skills in **backend development**, **frontend frameworks**, and **SQL-based analytics**.
+- 🤝 I have experience with **React**, **Redux**, **Django**, and have delved into **Go**.
+- ⚙️ Worked with architectural patterns such as **microservices** and **event-driven** architectures.
+- 😄 Passionate about building accessible and efficient software solutions.
+- 📫 Reach me at: [pavansantosh.ips@gmail.com](mailto:pavansantosh.ips@gmail.com)
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Java | Javascript | Typescript | Python | Matlab | R (Statistics)
-- 🌐 &nbsp; HTML | CSS | Bootstrap | Angular | React.js | Next.js | Flask | GO | Node.js
-- 🎮 &nbsp; Godot
-- 🛢 &nbsp; MySQL | MongoDB | Firebase | AWS
-- 🔧 &nbsp; Git | Android Studio | VsCode
+- 💻 &nbsp; Python | TypeScript | JavaScript | Java | Go | HTML | CSS
+- 🌐 &nbsp; HTML | CSS | React.js | Redux | Django | Next.js | Tailwind CSS
+- 🛢 &nbsp;&nbsp; MySQL | PostgreSQL | Oracle | AWS
+- 🔧 &nbsp; Git | Docker | Kubernetes
 
 <br>
 
@@ -35,4 +32,5 @@
 <a href="https://www.linkedin.com/in/pavan-santosh/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/pavann_santosh/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="mailto:pavansantosh.ips@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://pavansantosh-ps.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
 </p>
