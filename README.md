@@ -20,7 +20,7 @@
 <br>
 
 <a href="https://github.com/pavansantosh-ps">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pavansantosh-ps&theme=buefy&show_icons=true" />
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pavansantosh-ps&theme=buefy&show_icons=true" /> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavansantosh-ps&theme=buefy&layout=compact" />
 </a>
 
