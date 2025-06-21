@@ -6,7 +6,7 @@
 ### 🤔 About
 - 🌱 I’m currently working on honing my skills in **backend development**, **frontend frameworks**, and **SQL-based analytics**.
 - 🤝 I have experience with **React**, **Redux**, **Django**, and have delved into **Go**.
-- ⚙️ Worked with architectural patterns such as **microservices** and **event-driven** architectures.
+- ⚙️ Worked with architectural patterns such as **Microservices**, **Monolithic** and **Event-driven** architectures.
 - 😄 Passionate about building accessible and efficient software solutions.
 - 📫 Reach me at: [pavansantosh.ips@gmail.com](mailto:pavansantosh.ips@gmail.com)
 
