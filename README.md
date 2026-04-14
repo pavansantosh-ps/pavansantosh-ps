@@ -1,36 +1,59 @@
-<h1 align="center"> Hello, I'm Pavan Santosh 👋 </h1>
-<h3 align="center">Software Engineer at Affinsys AI | Full Stack Developer | Analytics Enthusiast</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pavansantosh-ps&label=Profile%20views&color=0e75b6&style=flat" alt="pavansantosh-ps" /> </p>
+# Hi there, I'm Pavan Santosh 👋
 
-### 🤔 About
-- 🌱 I’m currently working on honing my skills in **backend development**, **frontend frameworks**, and **SQL-based analytics**.
-- 🤝 I have experience with **React**, **Redux**, **Django**, and have delved into **Go**.
-- ⚙️ Worked with architectural patterns such as **Microservices**, **Monolithic** and **Event-driven** architectures.
-- 😄 Passionate about building accessible and efficient software solutions.
-- 📫 Reach me at: [pavansantosh.ips@gmail.com](mailto:pavansantosh.ips@gmail.com)
+### Senior Software Engineer @ Affinsys AI
 
-<h3>🛠 Tech Stack</h3>
+<p align="center">
+  <a href="https://pavansantosh-ps.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-f97316?style=for-the-badge&logo=Planet&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/pavansantosh-ps/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:pavansantosh.ips@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-- 💻 &nbsp; Python | TypeScript | JavaScript | Java | Go | HTML | CSS
-- 🌐 &nbsp; HTML | CSS | React.js | Redux | Django | Next.js | Tailwind CSS
-- 🛢 &nbsp;&nbsp; MySQL | PostgreSQL | Oracle | AWS
-- 🔧 &nbsp; Git | Docker | Kubernetes
+<img src="https://komarev.com/ghpvc/?username=pavansantosh-ps&label=Profile%20views&color=f97316&style=flat-square" alt="pavansantosh-ps" />
 
-<br>
+---
 
-<a href="https://github.com/pavansantosh-ps">
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pavansantosh-ps&theme=buefy&show_icons=true" /> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavansantosh-ps&theme=buefy&layout=compact" />
-</a>
+I build highly scalable backend microservices, real-time messaging architectures, and robust frontend AI dashboards. Passionate about solving complex data problems with elegant, performant systems.
+
+</div>
+
+### 🚀 What I Do
+- 🏗️ **Architecture:** Engineering high-throughput (80+/sec) multi-channel notification services and telephony SIP systems.
+- ⚡ **Backend:** Developing robust services using **Python (Django/FastAPI)** and **Go**, heavily relying on **RabbitMQ**, **NATS**, and **Redis** for event-driven delivery.
+- 📊 **Data & Observability:** Handling massive data ingestion (1M+ profiles filtering) using **PostgreSQL**, **ClickHouse**, and monitoring via **OpenTelemetry** & **SigNoz**.
+- 🖥️ **Frontend:** Building highly-reactive user interfaces with **React**, **Next.js**, **Tailwind CSS**, and **TypeScript**.
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+### 🛠️ Tech Arsenal
 
 <p align="center">
-<a href="https://www.linkedin.com/in/pavan-santosh/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.instagram.com/pavann_santosh/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="mailto:pavansantosh.ips@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://pavansantosh-ps.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,go,js,ts,java,react,nextjs,tailwindcss,django,fastapi,postgres,redis,rabbitmq,docker,kubernetes,aws" alt="Pavan's Tech Stack" />
+  </a>
 </p>
+
+<br/>
+
+
+### 📈 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pavansantosh-ps&show_icons=true&theme=tokyonight" alt="Pavan's GitHub Stats" height="192px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavansantosh-ps&layout=compact&theme=tokyonight" alt="Pavan's Top Languages" height="192px"/>
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+  <i>Let's build something great. Reach out anytime!</i>
+</div>
