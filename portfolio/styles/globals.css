@@ -15,7 +15,7 @@
     text-rendering: optimizeLegibility;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    @apply bg-brand-light text-slate-950 transition-colors duration-300;
+    @apply bg-brand-light text-slate-900 transition-colors duration-300;
   }
 
   .dark body {
